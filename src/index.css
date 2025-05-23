@@ -4,7 +4,7 @@
 @theme {
   --color-primary-darkPurple: hsl(246, 80%, 60%);
   --color-primary-orange: hsl(15, 100%, 70%);
-  --color-primary-blue: hsl(195, 74%, 62%);
+  --color-primary-blue: #2d809c;
   --color-primary-pink: hsl(348, 100%, 68%);
   --color-primary-green: hsl(145, 58%, 55%);
   --color-primary-lightPurple: hsl(264, 64%, 52%);
@@ -13,5 +13,8 @@
   --color-neutral-lighterNavy: hsl(235, 46%, 20%);
   --color-neutral-purple: hsl(235, 45%, 61%);
   --color-neutral-navy: hsl(236, 100%, 87%);
+  --color-backgroundColor: #101010;
+  --color-blur1: #00ffff;
+  --color-baseTextColor: #f5f5f5;
   --font-poppins: "Poppins", sans-serif;
 }
